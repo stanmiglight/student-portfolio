@@ -15,8 +15,8 @@ This project is a FastAPI-based task management system that provides two version
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/task-management-api.git
-cd task-management-api
+git clone https://github.com/stanmiglight/student-portfolio.git
+cd lab4
 ```
 
 ### Set up a virtual environment (optional but recommended):
