@@ -1,4 +1,4 @@
-# Factorial Calculator API
+![image](https://github.com/user-attachments/assets/21fab11e-11fa-4418-999e-0952ed57f549)# Factorial Calculator API
 
 This is a simple FastAPI-based web service that calculates the factorial of a given integer. The API provides an endpoint where you can send a number, and it will return the factorial of that number.
 
@@ -13,8 +13,8 @@ This is a simple FastAPI-based web service that calculates the factorial of a gi
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/factorial-api.git
-cd factorial-api
+git clone https://github.com/stanmiglight/student-portfolio.git
+cd lab 1
 ```
 
 ### Set up a virtual environment (optional but recommended):
