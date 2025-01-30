@@ -14,8 +14,8 @@ This is a FastAPI-based web service for managing a simple user database. The API
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/user-management-api.git
-cd user-management-api
+git clone https://github.com/stanmiglight/student-portfolio.git
+cd lab1
 ```
 
 ### Set up a virtual environment (optional but recommended):
