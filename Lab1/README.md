@@ -14,7 +14,7 @@ This is a simple FastAPI-based web service that calculates the factorial of a gi
 
 ```bash
 git clone https://github.com/stanmiglight/student-portfolio.git
-cd lab 1
+cd lab1
 ```
 
 ### Set up a virtual environment (optional but recommended):
