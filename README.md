@@ -72,7 +72,7 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 ### Install dependencies:
 ```bash
-pip install fastapi uvicorn requests python-dotenv
+pip install -r requirements.txt
 ```
 
 ### Create a `.env` file (for Task Management API):
