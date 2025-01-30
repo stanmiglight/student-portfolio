@@ -14,8 +14,8 @@ This project demonstrates how to interact with an external API using FastAPI. Th
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/external-api-integration.git
-cd external-api-integration
+git clone https://github.com/stanmiglight/student-portfolio.git
+cd lab3
 ```
 
 ### Set up a virtual environment (optional but recommended):
