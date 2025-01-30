@@ -15,7 +15,7 @@ This is a FastAPI-based web service for managing a simple user database. The API
 
 ```bash
 git clone https://github.com/stanmiglight/student-portfolio.git
-cd lab1
+cd lab2
 ```
 
 ### Set up a virtual environment (optional but recommended):
