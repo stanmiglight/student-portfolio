@@ -10,7 +10,7 @@ This repository contains four distinct FastAPI projects, each demonstrating diff
 **Endpoints:**
 - `GET /factorial/{starting_number}`: Returns the factorial of the provided integer.
 
-**File:** `factorial_api.py`
+**File:** `main.py`
 
 ---
 
@@ -23,7 +23,7 @@ This repository contains four distinct FastAPI projects, each demonstrating diff
 - `PUT /users/{user_id}`: Update an existing user.
 - `DELETE /users/{user_id}`: Delete a user.
 
-**File:** `user_management_api.py`
+**File:** `main.py`
 
 ---
 
@@ -37,7 +37,7 @@ This repository contains four distinct FastAPI projects, each demonstrating diff
 - `GET /formatted_comment/{postID}`: Retrieve and format comments for a specific post.
 - `GET /detailed_post/{userID}`: Retrieve detailed posts and comments for a specific user.
 
-**File:** `external_api_integration.py`
+**File:** `main.py`
 
 ---
 
@@ -52,7 +52,7 @@ This repository contains four distinct FastAPI projects, each demonstrating diff
 - `DELETE /apiv1/tasks/{task_id}`, `DELETE /apiv2/tasks/{task_id}`: Delete a task by `task_id`.
 - `PATCH /apiv1/tasks/{task_id}`, `PATCH /apiv2/tasks/{task_id}`: Update a task by `task_id`.
 
-**File:** `task_management_api.py`
+**File:** `main.py`
 
 ---
 
@@ -60,7 +60,7 @@ This repository contains four distinct FastAPI projects, each demonstrating diff
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/yourusername/multi-api-fastapi-repo.git
+git clone https://github.com/stanmiglight/student-portfolio.git
 cd multi-api-fastapi-repo
 ```
 
